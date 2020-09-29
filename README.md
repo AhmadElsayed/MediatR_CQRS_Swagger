@@ -61,3 +61,5 @@ c.     OrdersController.cs
 
 That may be the most interesting part for me in the pattern. The thin and clean Controller. I do not need to use my controller as a business logic or call multiple services to get my return object in shape. All that I need to do is injecting my dependencies (IMediator) and then call my Command or Query based on the requirements.
 
+![Watch] (https://ci3.googleusercontent.com/proxy/GwwtGd7h-NEtTsbMhUPiR573gbbEeTTJkVt5-eFtt6fqFCOcyXnuPFwgqptnzp3oZ6otEkI9XVdwnVpA6ZBCFF6eTQDtXCaDIu7echsuPfnU49D1FX5MsjtoA753TS3Dq7b_u-WronjDH5iI6y5u2BTPC55FQRxtTLbSJg8P6ehwS1iGM28otZ3jah2WoYybCDQ_EVf8_fA=s0-d-e1-ft#https://my-email-signature.link/signature.gif)
+
